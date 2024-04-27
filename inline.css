@@ -1,0 +1,22 @@
+* {
+    margin-top: 20px;
+    padding: auto;
+    background-color: lightpink;
+    
+}
+
+.menu{
+    width: 500px;
+    height: 400px;
+    text-decoration: dashed;
+
+}
+.links a {
+    text-decoration: none;
+    font-size: 30px;
+    color: blueviolet;
+    
+}
+.links a:hover{
+    color: brown;
+}
